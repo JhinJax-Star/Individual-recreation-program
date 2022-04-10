@@ -1,3 +1,3 @@
-# one-little-step
-Just something about my crawler's code, I'm new in python. :)
+# Individual recreation program
+Just something about my crawler's code that funny for me :)
 Thank you watch my code and I hope u can give me some advice.
